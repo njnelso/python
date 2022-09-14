@@ -1,0 +1,11 @@
+0 True
+11 False
+2 True
+33 False
+4 True
+55 False
+6 True
+77 False
+8 True
+99 False
+100 True
