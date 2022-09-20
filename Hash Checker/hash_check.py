@@ -6,7 +6,7 @@ import hashlib
 import os
 
 ### This function will read through files in a directory, read each file as bytes, and then compare it
-### to a hash that represents some type of malware
+### to a hash that represents some type of malware in this scenario
 
 ### HELPER FUNCTIONS (IF NECESSARY) ###
 def hash_check(filename):
